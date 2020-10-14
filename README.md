@@ -1,5 +1,29 @@
 # Criando Template para E-mail Marketing 
-Nesse projeto vamos explorar o conceito de E-mail Marketing (Arquivos HTML enviados pelo via E-mail), usando o conhecimento básico sobre HTML e CSS para criar um template simples. Caso queira estudar mais sobre HTML e CSS...<a href="https://github.com/Shellyda/Basico-HTML-CSS">Clique aqui</a> 
+Nesse projeto vamos explorar o conceito de E-mail Marketing (Arquivos HTML enviados pelo via E-mail), usando o conhecimento básico sobre HTML e CSS para criar um template simples. Caso queira estudar mais sobre HTML e CSS...<a href="https://github.com/Shellyda/Basico-HTML-CSS">Clique aqui</a> :)
+
+<h2>Algumas Observações sobre o projeto</h2>
+Importante lembrar que os <b>tamplates para E-mail</b> seguem um formato padrão de construção, no qual a estrutura tem ser feita com o <b>HTML antigo</b> e só podemos usar as tags de tabela, imagens e links, basicamente. Várias tags não podem ser usadas como margin, position, float, background-image... entre outras, por <b>questões de compatibilidade</b>.
+
+<ul>
+  <h2>Tags de tabela:</h2> 
+  <li>tr - As linhas</li>
+  <li>td - Os elementos</li> 
+  <li>table - A estrutura que engloba tudo</li>
+ </ul>
+
+<h4>OBS: Podemos colocar uma TABELA (TABLE) dentro de um ELEMENTO (TD) mas nunca uma LINHA (TR) dentro de um ELEMENTO (TD), precisamos sempre respeitar essa hierarquia!</h4>
+
+-------------------------
+<h2>Recomendações...</h2>
+
+<b>Não esquecer</b> de tirar o espaçamento interno padrão das tabelas (table). Dessa forma: < table cellspacing="0" cellpadding="0"></table >.
+
+<b>Sempre em elementos de imagem</b> use o display como block para que não tenha nenhum conflito nas plataformas de E-mail, < img style="display:block;"></img > e é preciso colocar o atributo 'alt' que serve para fazer uma descrição da imagem: < img alt:"minha descrição"style="display: block;"></img >.
+
+<b>Validar o documento</b> no site da W3C validator para confirmar que seguimos o padrão dos E-mails marketing. <a href="https://validator.w3.org/">Clique aqui</a> para acessar o site citado!
+
+<b>Lembrando</b> que para integrar um sistema de envio de E-mail ao seu site é necessário utilizar um software e ter conhecimento sobre Back-End, as imagens para serem enviadas corretamente via E-mail precisam estar dentro de um servidor externo online.
+
 <h3>Bons Estudos!</h3>
 *
 *
