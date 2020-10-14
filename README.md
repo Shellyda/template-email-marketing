@@ -1,5 +1,5 @@
 # Criando Template para E-mail Marketing 
-Nesse projeto vamos explorar o conceito de E-mail Marketing (Arquivos HTML enviados pelo via E-mail), usando o conhecimento básico sobre HTML e CSS para criar um template simples. Caso queira estudar mais sobre HTML e CSS...<a href="https://github.com/Shellyda/Basico-HTML-CSS">Clique aqui</a> :)
+Nesse projeto vamos explorar o conceito de E-mail Marketing (Arquivos HTML enviados via E-mail), usando o conhecimento básico sobre HTML e CSS para criar um template simples. Caso queira estudar mais sobre HTML e CSS...<a href="https://github.com/Shellyda/Basico-HTML-CSS">Clique aqui</a> :)
 
 <h2>Algumas Observações sobre o projeto</h2>
 Importante lembrar que os <b>tamplates para E-mail</b> seguem um formato padrão de construção, no qual a estrutura tem ser feita com o <b>HTML antigo</b> e só podemos usar as tags de tabela, imagens e links, basicamente. Várias tags não podem ser usadas como margin, position, float, background-image... entre outras, por <b>questões de compatibilidade</b>.
