@@ -36,8 +36,6 @@ While we can place a **TABLE** inside an **ELEMENT** (TD), we should never place
 
 * * * * *
 
-### Hello, my name is Shellyda Barbosa.
-
 I share various materials on Front-End technologies with practical examples on my GitHub profile! Currently, my focus is on Web Development using **HTML**, **CSS**, and **JavaScript**.
 
 #### Feel free to explore my repositories where I provide free materials on these topics and more. Let's study together!! :slightly_smiling_face: :heart: :+1:
