@@ -1,49 +1,50 @@
-# Criando Template para E-mail Marketing 
-Nesse projeto vamos explorar o conceito de E-mail Marketing (Arquivos HTML enviados via E-mail), usando o conhecimento básico sobre HTML e CSS para criar um template simples. Caso queira estudar mais sobre HTML e CSS...<a href="https://github.com/Shellyda/Basico-HTML-CSS">Clique aqui</a> :)
+# Creating Email Marketing Template
 
-Mais um projeto pessoal feito durante o curso 'Front-end completo' da Danki Code.
+In this project, we will delve into the concept of Email Marketing (HTML files sent via email), utilizing basic knowledge of HTML and CSS to craft a straightforward template. If you wish to delve deeper into HTML and CSS, please feel free to [click here](https://github.com/Shellyda/studies-html-css-basic) for additional study resources.
 
-<h2>Algumas Observações sobre o projeto</h2>
-Importante lembrar que os <b>templates para E-mail</b> seguem um formato padrão de construção, no qual a estrutura tem ser feita, geralmente, com uma versão mais antiga do HTML <b>(XHTML 1.0 Transitional)</b> e só podemos usar as tags de tabela, imagens e links, basicamente. Várias tags não podem ser usadas como margin, position, float, background-image... entre outras, por <b>questões de compatibilidade</b>.
+This personal project was undertaken during the Danki Code's 'Complete Front-End' course.
 
-<ul>
-  <h2>Tags de tabela:</h2> 
-  <li>tr - As linhas</li>
-  <li>td - Os elementos</li> 
-  <li>table - A estrutura que engloba tudo</li>
- </ul>
+## Project Observations
 
-<h4>OBS: Podemos colocar uma TABELA (TABLE) dentro de um ELEMENTO (TD) mas nunca uma LINHA (TR) dentro de um ELEMENTO (TD), precisamos sempre respeitar essa hierarquia!</h4>
+It is crucial to note that **Email templates** adhere to a standardized construction format, typically utilizing an older version of HTML **(XHTML 1.0 Transitional)**. Consequently, only specific tags such as tables, images, and links can be used, excluding others like margin, position, float, background-image due to **compatibility reasons**.
+
+### Table Tags:
+
+- **tr** - Rows
+- **td** - Elements
+- **table** - The overarching structure
+
+#### Important: 
+While we can place a **TABLE** inside an **ELEMENT** (TD), we should never place a **ROW** (TR) inside an **ELEMENT** (TD). Respecting this hierarchy is essential!
 
 -------------------------
-<h2>Recomendações...</h2>
 
-<b>Não esquecer</b> de tirar o espaçamento interno padrão das tabelas (table). Dessa forma: < table cellspacing="0" cellpadding="0"></table >.
+## Recommendations
 
-<b>Sempre em elementos de imagem</b> use o display como block para que não tenha nenhum conflito nas plataformas de E-mail, < img style="display:block;"></img > e é preciso colocar o atributo 'alt' que serve para fazer uma descrição da imagem: < img alt:"minha descrição"style="display: block;"></img >.
+- **Remove** the default internal spacing of tables using: `<table cellspacing="0" cellpadding="0"></table>`.
 
-<b>Validar o documento</b> no site da W3C validator para confirmar que seguimos o padrão exigido. <a href="https://validator.w3.org/">Clique aqui</a> para acessar o site citado!
+- In image elements, always set the display as block to avoid conflicts on Email platforms: `<img style="display:block;"></img>`. Additionally, include the 'alt' attribute to provide an image description: `<img alt="my description" style="display: block;"></img>`.
 
-<b>Lembrando</b> que para integrar um sistema de envio de E-mail ao seu site é necessário utilizar um software e ter conhecimento sobre Back-End, as imagens para serem enviadas corretamente via E-mail precisam estar dentro de um servidor externo online.
+- **Validate the document** using the W3C validator to ensure compliance with standards. [Click here](https://validator.w3.org/) to access the site.
 
-<h3>Bons Estudos!</h3>
-*
-*
-*
-*
-*
-*
-<h3>Olá, meu nome é Shellyda Barbosa.</h3> 
-Compartilho no meu perfil do GitHub vários materiais sobre tecnologias Front End com exemplos práticos!!
-Atualmente o foco do meu perfil está voltado para o Desenvolvimento Web em <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b>.  
-<h4>Se sintam a vontade para explorar os meus repositórios, onde eu deixo disponível materiais gratuitos sobre esses temas e afins. Vamos estudar juntos!! :slightly_smiling_face: :heart: :+1: </h4>
+- Keep in mind that integrating an Email sending system on your website requires Back-End knowledge. Images must be hosted on an external online server for correct email delivery.
 
-<h2>Meus Projetos:</h2>
+### Happy Studying!
 
-- O estudo sobre o <b>Básico</b> das codificações <b>HTML</b> e <b>CSS</b>. Para acessar [Clique aqui](https://github.com/Shellyda/Basico-HTML-CSS)  :orange_heart:  :blue_heart: 
+* * * * *
 
-- <b>JavaScript</b> para iniciantes na programação. Para acessar [Clique aqui](https://github.com/Shellyda/Basico-JavaScript) :yellow_heart: :yellow_heart:  :yellow_heart: 
+### Hello, my name is Shellyda Barbosa.
 
-- Técnicas <b>Avançadas</b> do <b>HTML5</b> e <b>CSS3</b>. Para acessar [Clique aqui](https://github.com/Shellyda/Avancado-HTML-CSS) :orange_circle: :large_blue_circle: 
+I share various materials on Front-End technologies with practical examples on my GitHub profile! Currently, my focus is on Web Development using **HTML**, **CSS**, and **JavaScript**.
 
-- Desenvolvimento web <b>avançado</b> com <b>JavaScript</b>. Para acessar [Clique aqui](https://github.com/Shellyda/Avancado-JavaScript) :star: :star: :star:
+#### Feel free to explore my repositories where I provide free materials on these topics and more. Let's study together!! :slightly_smiling_face: :heart: :+1:
+
+## My Projects:
+
+- Exploring the **Basics** of **HTML** and **CSS**. [Click here](https://github.com/Shellyda/studies-html-css-basic) :orange_heart: :blue_heart:
+
+- **JavaScript** for beginners in programming. [Click here](https://github.com/Shellyda/studies-javascript-basic) :yellow_heart: :yellow_heart: :yellow_heart:
+
+- Advanced techniques of **HTML5** and **CSS3**. [Click here](https://github.com/Shellyda/studies-html-css-advanced) :orange_circle: :large_blue_circle:
+
+- Advanced web development with **JavaScript**. [Click here](https://github.com/Shellyda/studies-javascript-advanced) :star: :star: :star:
