@@ -23,7 +23,8 @@ While we can place a **TABLE** inside an **ELEMENT** (TD), we should never place
 
 - **Remove** the default internal spacing of tables using: `<table cellspacing="0" cellpadding="0"></table>`.
 
-- In image elements, always set the display as block to avoid conflicts on Email platforms: `<img style="display:block;"></img>`. Additionally, include the 'alt' attribute to provide an image description: `<img alt="my description" style="display: block;"></img>`.
+- In image elements, always set the display as block to avoid conflicts on Email platforms: `<img style="display:block;"></img>`.
+-  Additionally, include the 'alt' attribute to provide an image description: `<img alt="my description" style="display: block;"></img>`.
 
 - **Validate the document** using the W3C validator to ensure compliance with standards. [Click here](https://validator.w3.org/) to access the site.
 
