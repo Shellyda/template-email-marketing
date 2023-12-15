@@ -4,6 +4,8 @@ In this project, we will delve into the concept of Email Marketing (HTML files s
 
 This personal project was undertaken during the Danki Code's 'Complete Front-End' course.
 
+Check the template deployed by clicking [here](https://shellyda.github.io/template-email-marketing/)!
+
 ## Project Observations
 
 It is crucial to note that **Email templates** adhere to a standardized construction format, typically utilizing an older version of HTML **(XHTML 1.0 Transitional)**. Consequently, only specific tags such as tables, images, and links can be used, excluding others like margin, position, float, background-image due to **compatibility reasons**.
